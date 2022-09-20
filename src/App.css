@@ -1,0 +1,94 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.form-ctn {
+  border-radius: 15px;
+  border: 1px solid #ffffff;
+  padding: 20px;
+  width: 220px;
+  margin: 40px;
+  border-radius: px;
+  margin: 0 auto;
+  font-size: larger;
+  color: #ffffff;
+}
+
+.form-item {
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.list-ctn {
+  min-width: 1280px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  border-radius: 3px;
+  margin: 50px;
+
+
+}
+
+.card {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #7a747477;
+  border-radius: 8px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.column1 {
+  min-width: 80px;
+  margin-right: 10px;
+}
+
+.column1 button {
+  min-width: 80px;
+  margin: 0;
+}
+
+.form-item label {
+  width: 100px;
+  font-size: 700;
+}
+
+
+
+button {
+  padding: 1px;
+  margin: 10px;
+  font-size: 15px;
+  font-family: Arial;
+  border-width: 1px;
+  color: #ffffff;
+  font-weight: bold;
+  border-radius: 5px;
+  text-shadow: 0px -1px 0px #5b6178;
+}
+
+button:hover {
+
+  background: rgb(48, 60, 68);;
+}
+
+
+.form-item label {
+  width: 200px;
+  display: block;
+}
+
